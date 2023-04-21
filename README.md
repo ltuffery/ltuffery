@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/787280624448700447/1099092785442848809/Banner.png" width="100%" />
+
 # 👋 Hey! I'm ltuffery 
 Student at ecole 42
 
